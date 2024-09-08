@@ -23,8 +23,7 @@ const greeting = {
   nickname: "Full Stack Developer",
   subTitle:
    "As an accomplished MERN stack developer, I excel in architecting dynamic web applications leveraging MongoDB, Express.js, React, Next.js, and Node.js. With expertise spanning front-end and back-end technologies, I orchestrate the creation of scalable solutions finely tuned to user requirements. My approach centers on optimizing performance and enhancing code quality, employing rigorous testing methodologies and perpetually refining processes to guarantee the dependable and efficient deployment of software solutions.",
-  resumeLink:
-    "https://drive.google.com/file/d/1uaOZGZSqM81VcmDU5TqvGlZOIKLS2qyx/view?usp=sharing",
+  resumeLink:"https://drive.google.com/file/d/1uaOZGZSqM81VcmDU5TqvGlZOIKLS2qyx/view?usp=sharing",
   portfolio_repository: "https://github.com/taraksiddhanta1",
   githubProfile: "https://github.com/taraksiddhanta1",
 };
